@@ -11,6 +11,10 @@ import android.widget.TextView;
 import android.widget.Toast;
 import java.text.DecimalFormat;
 
+/* Created by Sean Corcoran for Deakin University Unit SIT305
+*  Task 2.1P
+*  March 2021
+* */
 
 public class MainActivity extends AppCompatActivity {
 
