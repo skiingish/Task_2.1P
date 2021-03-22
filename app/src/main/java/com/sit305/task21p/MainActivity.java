@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void convertMeasurement(View view) {
 
-        //String selected = spinner.getItemAtPosition(0).toString();
+        // Get the current selected spinner position
         int selected = spinner.getSelectedItemPosition();
 
         // Check to see if the selected item is the correct unit of measurement.
@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void convertTemperature(View view) {
 
-        //String selected = spinner.getItemAtPosition(0).toString();
+        // Get the current selected spinner position
         int selected = spinner.getSelectedItemPosition();
 
         // Check to see if the selected item is the correct unit of measurement.
@@ -128,7 +128,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void convertMass(View view) {
-        //String selected = spinner.getItemAtPosition(0).toString();
+        // Get the current selected spinner position
         int selected = spinner.getSelectedItemPosition();
 
         // Check to see if the selected item is the correct unit of measurement.
